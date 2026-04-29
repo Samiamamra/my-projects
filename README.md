@@ -1,4 +1,4 @@
-# How to Run Downloaded Python Projects (Beginner Guide)
+# How to Try Python Projects (Beginner Guide)
 
 This guide explains how to run Python programs after downloading them from a repository (like GitHub), even if you have no programming experience.
 ## 1. Download the project:
