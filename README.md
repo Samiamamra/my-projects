@@ -1,7 +1,21 @@
 # How to Run Downloaded Python Projects (Beginner Guide)
 
 This guide explains how to run Python programs after downloading them from a repository (like GitHub), even if you have no programming experience.
+## 1. Download the project:
 
+Open the GitHub repository page in your browser(you will find the links in the web site)
+
+Click the green button Code
+
+Select Download ZIP
+
+Wait for download to finish
+
+Right-click the ZIP file and choose Extract All (or unzip it)
+
+Open the extracted folder
+
+You now have the full project on your computer.
 ---
 
 ## 2. What You Need First
